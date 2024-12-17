@@ -1,16 +1,4 @@
-# hello_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Практическая работа №4
+Копытина Светлана ЭФБО-05-22
+![image](https://github.com/user-attachments/assets/b2096094-7801-4616-b1c3-7885a71be63b)
+![image](https://github.com/user-attachments/assets/3712a9b8-d623-4fba-a3bb-233373f0918e)
